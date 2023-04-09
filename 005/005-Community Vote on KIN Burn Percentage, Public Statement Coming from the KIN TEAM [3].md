@@ -2,7 +2,7 @@
 title: Community Vote on KIN Burn Percentage, Public Statement Coming from the KIN TEAM [3]
 status: Proposed
 author: CAPET (@CitizenCapet)
-shortDescription: Public Statement regarding the Community Vote on KIN burn Percentage
+shortDescription: Public Statement regarding the vote of the Community Vote on KIN burn Percentage
 discussions: Public Statement regarding the Vote of the Burn
 created: 2023-04-09
 ---
