@@ -1,0 +1,75 @@
+---
+title: KIP-XXXX: Example KIN Improvement Proposal
+status: Draft
+type: Standards Track
+category: Core
+author: John Doe <john.doe@example.com>
+team: KIN Core Team
+shortDescription: A brief description of the proposal (1-2 sentences).
+discussions: Link to a discussion forum, such as GitHub issues or Discord channels.
+created: 2023-04-17
+updated: 2023-04-17
+---
+
+## Abstract
+(Provide a concise, high-level overview of the proposal.)
+
+## Summary
+(Summarize the proposal and its main components in a few paragraphs.)
+
+## Motivation
+(Explain why this proposal is necessary and how it benefits the KIN ecosystem.)
+
+## Rationale
+(Describe the reasoning behind the proposed changes and any alternatives considered.)
+
+## Specification
+
+### Components
+(List the main components or features of the proposal.)
+
+### Functionality
+(Describe how the components interact and work together to achieve the proposal's goals.)
+
+### Interface
+(Detail any new interfaces or changes to existing interfaces required for the proposal.)
+
+## Use Cases
+(Provide examples of how the proposal would be used in real-world scenarios.)
+
+## Test Cases
+(Outline test cases or scenarios that can be used to validate the proposal's functionality.)
+
+## Security
+
+### Risks
+(Identify potential security risks associated with the proposal.)
+
+### Mitigations
+(Explain the steps taken to address or mitigate the identified risks.)
+
+## Implementation
+(Discuss the current status of the proposal's implementation and any plans for future development.)
+
+## Economics
+
+### Incentives
+(Describe any incentives, rewards, or fees associated with the proposal.)
+
+### Costs
+(Estimate the costs of implementing the proposal, including development, deployment, and maintenance.)
+
+## Governance
+(Detail any changes to the KIN governance model or decision-making process required for the proposal.)
+
+## Community
+(Explain how the proposal affects the KIN community and any potential benefits or drawbacks.)
+
+## Dependencies
+(List any dependencies or external factors that the proposal relies upon.)
+
+## References
+(Include any relevant sources, articles, or research papers that support the proposal.)
+
+## Copyright
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
